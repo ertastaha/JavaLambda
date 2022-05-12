@@ -1,6 +1,4 @@
-package lambdaTutorial;
-
-import lambdaTutorial.Lambda01;
+package lambdatutorial;
 
 import java.util.*;
 

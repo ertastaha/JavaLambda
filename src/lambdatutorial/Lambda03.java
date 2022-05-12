@@ -1,4 +1,4 @@
-package lambdaTutorial;
+package lambdatutorial;
 
 import java.util.*;
 import java.util.stream.Stream;

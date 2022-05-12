@@ -1,4 +1,4 @@
-package lambdaTutorial;
+package lambdatutorial;
 
 import java.util.stream.IntStream;
 

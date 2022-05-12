@@ -1,4 +1,4 @@
-package lambdaTutorial;
+package lambdatutorial;
 
 public class Universite {
     /*
